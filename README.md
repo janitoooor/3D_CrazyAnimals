@@ -23,7 +23,7 @@ ___Interactions___ were created using physics. were created using physics. All t
 
 Download this zip archive __[zip file](Platformer.zip)__, unpack it and run the executable file 3D_Platformer.exe.
 
-##System requirements:
+## System requirements:
 
 The project requires the Unity Environment 2022.8f1 or higher to work with it.
 

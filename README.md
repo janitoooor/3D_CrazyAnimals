@@ -1,4 +1,4 @@
-##About the project:
+# About the project:
 
 >___"Crazy Animals"___ is my pet project. It’s a platform game with one level. In this game I emphasized interaction with physics and level design.
   
@@ -6,33 +6,27 @@
 
 >___Interactions___ were created using physics. Also in the game there is a nice UI.
 
-##Used plugins:
+## Used plugins:
 
 * Zenject
-
 * MasterObjectPool2(MOP2)
-
 * TextMeshPro (TMP)
-
 * Universal Render Pipeline (URP)
-
 * Adressables
-
 * Cinemachine
 
-##System requirements:
+## System requirements:
 
 The project requires the Unity Environment 2022.8f1 or higher to work with it.
 
-##Project installation:
+## Project installation:
 
 To install the project, download it from GitHub and open it in Unity. Then, click on the "Play" button to start the project.
 
-##Contribution to the project:
+## Contribution to the project:
 
-The project is open source, and we welcome contributions to its development. 
-If you discover bugs or want to add new features, please submit a pull request to GitHub.
+The project is open source, and we welcome contributions to its development. If you discover bugs or want to add new features, please submit a pull request to GitHub.
 
-##Contacts:
+## Contacts:
 
 If you have any questions or suggestions, please contact us through our GitHub or [Telegram](https://t.me/janitoor13).

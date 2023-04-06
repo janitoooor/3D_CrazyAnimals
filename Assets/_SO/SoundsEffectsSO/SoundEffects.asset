@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24b4473bb84717a4b901b61c4e55feff, type: 3}
+  m_Name: SoundEffects
+  m_EditorClassIdentifier: 
+  _soundsShoot:
+  - {fileID: 8300000, guid: bc26ec447273a3b41bbe8a09246ee35c, type: 3}
+  _soundsTakeHealth:
+  - {fileID: 8300000, guid: c4aedc2e122d9424da330d9264b148ec, type: 3}
+  _soundsTakeDamage:
+  - {fileID: 8300000, guid: 3837be643f9280d408228f241e70e023, type: 3}
+  _soundsDamageEnemy:
+  - {fileID: 8300000, guid: 7247560b334bc404dab94b13ad461bed, type: 3}
+  _soundsScreamSquirrel:
+  - {fileID: 8300000, guid: 0065d67cdca58ac4bb0e349659e49ad3, type: 3}
+  _soundsThrow:
+  - {fileID: 8300000, guid: 8a80d9555355f8a47ac3281a0a6f6c35, type: 3}
+  _soundsDieFx:
+  - {fileID: 8300000, guid: 74e30bf9da922f342b95760e0667cf9d, type: 3}

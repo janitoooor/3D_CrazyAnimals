@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 12503207402a32e4689b7585621f3c07
+  m_SerializeEntries:
+  - m_GUID: 02ef3e4934e792e4cb41a4e93e343185
+    m_Address: Assets/_Prefabs/Enviroment/Enviroment.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e010dc62178ead544a1b178efff400e3
+    m_Address: Assets/_Prefabs/Enviroment/Other (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3837be643f9280d408228f241e70e023
+    m_Address: Assets/_Sounds/MeHit.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af2c0b04157a5b046ab25bf8ba0f13fc
+    m_Address: Assets/_Textures
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 682ef3a9033330a4799ba2c9d9dae705
+    m_Address: Assets/_Prefabs/LevelParts/SecondLevelPart.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enviroment
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5686d6e8167ed83408d41808f388f66c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bf41ef4063d4eeb45bf1cfe12687056b, type: 2}
+    - {fileID: 11400000, guid: 5d0cac99aa9b4464484e8246b1e6cae3, type: 2}

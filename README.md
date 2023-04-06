@@ -16,8 +16,14 @@ ___Interactions___ were created using physics. were created using physics. All t
 * Universal Render Pipeline (URP)
 * Adressables
 * Cinemachine
+* New Input System
+* Scriptable Objects
 
-## System requirements:
+## How to play the game
+
+Download this zip archive __[zip file](Platformer.zip)__, unpack it and run the executable file 3D_Platformer.exe.
+
+##System requirements:
 
 The project requires the Unity Environment 2022.8f1 or higher to work with it.
 

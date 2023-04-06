@@ -22,6 +22,14 @@
 
 * Cinemachine
 
+* New Input System
+
+* Scriptable Objects
+
+## How to play the game
+
+Download this zip archive __[zip file](Platformer.zip)__, unpack it and run the executable file Hell’s Kitchen.exe.
+
 ##System requirements:
 
 The project requires the Unity Environment 2022.8f1 or higher to work with it.

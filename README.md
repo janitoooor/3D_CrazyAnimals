@@ -4,11 +4,9 @@ ___"Crazy Animals"___ is my pet project. It’s a platform game with one level. 
   
 ___Core mechanics:___ the player controls a capsule that can fly on a rope, shoot enemies and collect loot, the hero also has a couple of abilities that he can use, like as time dilation.
 
->___Interactions___ were created using physics. Also in the game there is a nice UI. All the effects of the game were created using the partiicle system
+___Interactions___ were created using physics. were created using physics. All the effects of the game were created using the partiicle system. Also in the game there is a nice UI. 
 
 ![game screen](GameScreen.jpg)
-
-___Interactions___ were created using physics. Also in the game there is a nice UI.
 
 ## Used plugins:
 
